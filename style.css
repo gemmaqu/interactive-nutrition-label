@@ -1,0 +1,71 @@
+.highlight {
+    background: yellow;
+}
+
+.lineHighlight {
+    background: green;
+}
+
+.less{
+  fill: navy;
+}
+
+.lowLess{
+  fill: #fee0d2 ;
+}
+
+.mediumLess{
+  fill: #fc9272 ;
+}
+
+.highLess{
+  fill: #de2d26;
+}
+
+.lowMore{
+  fill: #D0F0C0;
+}
+
+.mediumMore{
+  fill: #ACE1AF;
+}
+
+
+.highMore{
+  fill: #17B169;
+}
+
+/*
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; 
+  }
+  
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+  
+    
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+   
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  } */
